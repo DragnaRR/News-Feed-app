@@ -9,6 +9,7 @@ which is been requested from the news server through API request. Now the user c
 a simple software that provides the most recent and useful news from a variety of sources.
 
 
+![logo](https://user-images.githubusercontent.com/95096810/205463821-a7522fee-573e-469b-9db8-1075969f4cb3.PNG)
 ![Logo](https://github.com/DragnaRR/News-Feed-app/blob/master/logo.png)
 
 
