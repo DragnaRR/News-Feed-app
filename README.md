@@ -10,7 +10,7 @@ a simple software that provides the most recent and useful news from a variety o
 
 
 ![logo](https://user-images.githubusercontent.com/95096810/205463821-a7522fee-573e-469b-9db8-1075969f4cb3.PNG)
-![Logo](https://github.com/DragnaRR/News-Feed-app/blob/master/logo.png)
+
 
 
 ## API Reference
@@ -63,4 +63,4 @@ a simple software that provides the most recent and useful news from a variety o
 ![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/app_drawer.png)
 
 - Web view
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/web_view.PNG)
+![web_view](https://user-images.githubusercontent.com/95096810/205463864-e0877062-4506-4ec2-abb0-73b75652ae0a.PNG)
