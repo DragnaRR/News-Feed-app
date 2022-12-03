@@ -41,27 +41,35 @@ a simple software that provides the most recent and useful news from a variety o
 
 ## Screenshots
 
+
 - Home page
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/home.png)
+
+![home](https://user-images.githubusercontent.com/95096810/205464032-7c8bddb7-720f-4d9a-9c96-360e8c09b337.PNG)
 
 - Entertainment
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/entertainment.png)
+
+![entertainment](https://user-images.githubusercontent.com/95096810/205464043-85e585c9-8267-4ef4-89f4-a952c42e25a9.PNG)
 
 - Sports
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/sports.png)
+
+![sports](https://user-images.githubusercontent.com/95096810/205464056-d4257a7c-341e-4bb8-ae22-4cee97408697.PNG)
 
 - Health
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/health.png)
 
-- Science 
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/science.png)
+![health](https://user-images.githubusercontent.com/95096810/205464082-717b0604-e399-4d86-96ea-9d06147572dc.PNG)
+
+- Science
+ 
+![science](https://user-images.githubusercontent.com/95096810/205464093-5a1137f1-5db5-4bbb-91bd-8ddb7b0a02a9.PNG)
 
 - Technology
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/techs.png)
 
-- App drawer
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/app_drawer.png)
+![techs](https://user-images.githubusercontent.com/95096810/205464109-48d26836-892c-46a7-93e3-740ab56daed1.PNG)
 
 - Web view
 
 ![web_view](https://user-images.githubusercontent.com/95096810/205463907-4229f31a-9135-4925-a55a-5e47ad153a04.PNG)
+
+- App drawer
+
+![app_drawer](https://user-images.githubusercontent.com/95096810/205464127-aa40266f-7561-4608-a269-d9005c855786.PNG)
