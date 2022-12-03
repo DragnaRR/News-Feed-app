@@ -62,4 +62,4 @@ a simple software that provides the most recent and useful news from a variety o
 ![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/app_drawer.png)
 
 - Web view
-![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/web_view.png)
+![App Screenshot](https://github.com/DragnaRR/News-Feed-app/blob/master/screenshots/web_view.PNG)
